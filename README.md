@@ -6,7 +6,7 @@ One way of making a berlin clock
 
 Open the project in your favorite editor, and run it through the editor.
 The program will then run in your console. 
-After it is fully loaded, follow the instructions on the screen.
+After it is fully loaded, follow the instructions on the console screen.
 
 ## How to run the tests
 
