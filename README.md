@@ -10,5 +10,5 @@ After it is fully loaded, follow the instructions on the screen.
 
 ## How to run the tests
 
-Add JUnit5 library to your build path.
+Add JUnit4 library to your build path.
 Then open the ClockTest.java class and run it as a JUnit class. 
